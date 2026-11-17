@@ -21,4 +21,4 @@ Using the 30-minute session definition, 17.7% of late-night sessions contained a
 
 Late-night sessions had more video records on average at all three gap thresholds tested (20, 30, and 45 minutes). At the 20-minute threshold, both groups had a median of 2. The analysis measures the number of video records per session.
 
-[View the analysis notebook and chart](dsa210_youtube_sessions.ipynb)
+[View the analysis notebook and chart](dsa210_youtube_sessions-2.ipynb)
