@@ -17,7 +17,7 @@ I used my personal YouTube watch history exported through Google Takeout. After 
 
 ![Daytime and late-night YouTube sessions by number of video records](youtube_session_comparison.png)
 
-Using the 30-minute session definition, 17.7% of late-night sessions contained at least 10 video records, compared with 10.8% of daytime sessions. After excluding these sessions from both groups, the mean difference fell from 1.83 to 0.35 video records per session. This suggests that sessions with many video records account for much of the observed gap.
+Using the 30-minute session definition, 17.7% of late-night sessions contained at least 10 video records, compared with 10.8% of daytime sessions. After excluding these sessions from both groups, the mean difference fell from 1.83 to 0.36 video records per session. This suggests that sessions with many video records account for much of the observed gap.
 
 Late-night sessions had more video records on average at all three gap thresholds tested (20, 30, and 45 minutes). At the 20-minute threshold, both groups had a median of 2. The analysis measures the number of video records per session.
 
